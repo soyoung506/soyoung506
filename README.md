@@ -16,6 +16,7 @@ Tech Blog : [Young’s Note](https://youngsnote.notion.site/Young-s-Note-5db9789
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=redis&amp;logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-6DB33F?style=flat-square&amp;logo=JavaScript&amp;logoColor=white">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&amp;logo=jQuery&amp;logoColor=white">
     <img src="https://img.shields.io/badge/Ajax-2083C6?style=flat-square&amp;logo=Ajax&amp;logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white">
