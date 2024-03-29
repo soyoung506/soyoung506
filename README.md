@@ -8,6 +8,7 @@ Tech Blog : [Young’s Note](https://youngsnote.notion.site/Young-s-Note-5db9789
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&amp;logo=SpringBoot&amp;logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/JPA-BCAE79?style=flat-square&amp;logo=JPA&amp;logoColor=white">
     <img src="https://img.shields.io/badge/QueryDSL-0289CF?style=flat-square&amp;logo=QueryDSL&amp;logoColor=white">  
     <img src="https://img.shields.io/badge/MyBatis-6DB33F?style=flat-square&amp;logo=MyBatis&amp;logoColor=white">
